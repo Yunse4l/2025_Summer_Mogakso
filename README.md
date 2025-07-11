@@ -1,5 +1,4 @@
 ## 2025 하계 모각소
-<hr style="height:1px; background-color:#ccc; border:none;" />
 
 ### 💡Introduce
 아주대학교 SW중심대학사업의 하계 모각소 활동 내용 기록본입니다.
